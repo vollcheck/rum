@@ -85,7 +85,7 @@ Rum:
 
 Add to project.clj: `[rum "0.12.11"]`
 
-### API Docs & Articles
+### API Docs
 
 [![cljdoc badge](https://cljdoc.org/badge/rum/rum)](https://cljdoc.org/d/rum/rum/CURRENT)
 
